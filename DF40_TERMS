@@ -1,0 +1,31 @@
+Terms to use the DF40 dataset
+Thanks for your interest in our work. You can use the following links for download DF40.
+
+
+1. Download DF40 data (after pre-processing)
+For a quick use and convenience, we provide all DF40 data after pre-processing using in our research. You do NOT need to do the pre-processing again but directly use our processed data.
+
+- DF40 (testing data):
+  - Description: We provide the Google Drive Link (https://drive.google.com/drive/folders/1U8meBbqVvmUkc5GD0jxct6xe6Gwk9wKD?usp=drive_link) of the whole DF40 testing data (40 methods) after preprocessing (frame extraction and face cropping), including fake images only.
+  - Size: The whole size is ~93G, including all testing fake data of DF40.
+
+- DF40 (training data):
+  - Description: We provide the Google Drive Link (https://drive.google.com/drive/folders/1980LCMAutfWvV6zvdxhoeIa67TmzKLQ_?usp=drive_link) of the whole DF40 training data after preprocessing (frame extraction and face cropping), including fake images only.
+  - Size: The whole size is ~93G, including all testing fake data of DF40.
+
+- Original Real Data (FF++ and Celeb-DF):
+  - For "known" 31 methods: To obtain the real data for both training and testing purposes, please use the following links: FaceForensics++ real data (https://drive.google.com/file/d/1dHJdS0NZ6wpewbGA5B0PdIBS9gz28pdb/view?usp=drive_link) and Celeb-DF real data (https://drive.google.com/file/d/1P9Ep4-nxGpBX8LZGq2UyxqoCL6sBDN8Z/view?usp=drive_link).
+  - For "unknown" 9 methods: The real data is already included within the folder, so there is NO additional download link required for the real data of the unknown methods.
+
+- JSON files for recording image paths:
+  - Description: we create a JSON file to load all frame paths for each method in a unified way.
+  - All JSON files used in our research can be download here (https://drive.google.com/drive/folders/19VhAL4aDJOKvhl9stEq_ymFeHiXo6_j-?usp=drive_link). 
+  - After downloading, Please put the folder `dataset_json` inside the `./preprocessing/ folder.
+
+
+
+2. Download Original DF40 data (before pre-processing)
+If you also want to download the original fake videos of all FS and FR methods, please download them at the link (https://drive.google.com/drive/folders/1GB3FN4pjf9Q5hhhcBmBTdMmEmtrDe9zZ?usp=drive_link). For EFS and FE methods, the original data is the processed data, they are the same since they do not need to perform preprocessing (e.g., frame extraction and face crop).
+
+(Refresh if the exception is occurred)
+Submit another response
