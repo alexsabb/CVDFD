@@ -1,2 +1,2 @@
-# CV_DFD
+# CVDFD
 Castro Valley DeepFake Detect
