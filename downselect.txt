@@ -1,0 +1,51 @@
+DF40
+https://drive.google.com/drive/folders/1980LCMAutfWvV6zvdxhoeIa67TmzKLQ_
+
+DF40 - ORIGINAL VIDEOS
+https://drive.google.com/drive/folders/1K0N0is62Bbc3OhqGrzN8fgyd8qayOEeE
+
+Categorys of Face Man/Creation
+FS - Face Swapping
+	-FSGAN [CONVINCING]
+	-FaceSwap
+	-SimSwap [CONVINCING]
+	-InSwapper [CONVINCING]
+	-BlendFace [CONVINCING]
+	-UniFace [CONVINCING]
+	-MobileSwap [CONVINCING]
+	-e4s
+	-FaceDancer
+	-DeepFaceLab [CONVINCING]
+FR - Face Reenactment
+	-FOMM
+	-FS-vid2vid
+	-Wav2Lip [CONVINCING]
+	-MRAA [CONVINCING]
+	-OneShot
+	-PIRender
+	-TPSM [CONVINCING]
+	-Lia [CONVINCING]
+	-DaGAN
+	-SadTalker [CONVINCING]
+	-MCNET
+	-HyperREenact
+	-HeyGen [CONVINCING]
+EFS - Entire Face Synthesis (Image)
+	-VQGAN
+	-StyleGAN2
+	-StyleGAN3
+	-StyleGAN-XL
+	-SD-2.1
+	-DDPM
+	-RDDM
+	-PixArt
+	-DiT-XL/2
+	-SiT-XL/2
+	-MidJourney6
+	-WhichisReal
+FE - Face Edit (Image)
+	-Collabdiff
+	-e4e
+	-StarGAN
+	-StarGANv2
+	-StyleCLIP
